@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'sonic_pi'
+SonicPi.new.run File.read ARGV.first
+
