@@ -8,6 +8,9 @@ to let me easily play the songs.
 
 ## Usage:
 
+You can either copy-and-paste the contents of a song into Sonic Pi, or you
+can use the CLI.
+
 Run Sonic Pi before doing this stuff.
 
 ### With bundler:
